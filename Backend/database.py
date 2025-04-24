@@ -38,16 +38,17 @@ def initialize_database():
 
     # Insert handcorded car types
     car_types_data = [
-       ("Mercedez benz", "link    ", "Description    .", 4.5, 250),
-        ("Toyota", "link   ", "Description     .", 4.2, 300),
-        ("Mazda", "link     ", "Description      .", 4.8, 200),
-        ("Nissan", "link  ", "Description       .", 4.7, 350),
-        ("Porshe", "link     ", "Description        .", 4.3, 275),
-        # ("Lambourgini", "link    ","Description    ." 4.6, 225),
-        ("Lexus", "link  ", "Description        .", 4.1, 320),
-        ("Tesla", "link    ", "Description      .", 4.0, 275),
-        ("Ferarri", "link     ", "Description       .", 4.4, 240),
-        ("BMW", "link          ", "Description     ", 4.9, 280)
+       ("Mercedez benz", "https://unsplash.com/photos/black-mercedes-benz-coupe-on-gray-asphalt-road-8qYE6LGHW-c", "Description    .", 4.5, 250),
+        ("Toyota", "https://unsplash.com/photos/a-white-sports-car-parked-in-front-of-a-building-zMGrPdjRoOU", "Description     .", 4.2, 300),
+        ("Mazda", "https://pixabay.com/photos/car-vehicle-mazda-auto-automobile-6122175/", "Description      .", 4.8, 200),
+        ("Nissan", "https://unsplash.com/photos/a-white-sports-car-parked-on-a-wet-road-ZNPVwTqhhHo", "Description       .", 4.7, 350),
+        ("Porsche", "https://pixabay.com/photos/automobile-cayman-coupe-design-5330353/", "Description        .", 4.3, 275),
+        ("Lamborghini", "https://unsplash.com/photos/an-orange-sports-car-parked-in-front-of-a-building-i0GAaus50es","Description    .", 4.6, 225),
+        ("Lexus", "https://unsplash.com/photos/white-mercedes-benz-c-class-NR7urrOwkLE", "Description        .", 4.1, 320),
+        ("Tesla", "https://unsplash.com/photos/a-futuristic-car-is-parked-on-the-side-of-the-road-VceGFFBjSrY", "Description      .", 4.0, 275),
+        ("Ferarri", "https://pixabay.com/photos/automobile-ferrari-sports-car-3309967/", "Description       .", 4.4, 240),
+        ("BMW", "https://unsplash.com/photos/a-black-car-parked-in-a-parking-lot-QSNRdQjqXpI", "Description     ", 4.9, 280)
+        ("Audi", "https://unsplash.com/photos/gray-and-red-coupe-bKqNW5Dq6p8", "Description     ", 4.1, 290)
     ]
 
 
