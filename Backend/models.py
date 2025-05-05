@@ -23,7 +23,7 @@ class User:
 
     # Other User methods here
 
-class PizzaType:
+class carType:
     def __init__(self, id, name, image_url, description, rate, amount):
         self.id = id
         self.name = name
